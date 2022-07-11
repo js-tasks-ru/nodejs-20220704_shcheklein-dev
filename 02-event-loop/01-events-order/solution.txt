@@ -1,5 +1,6 @@
 James
 Richard
-Robert
 John
+Robert
+James
 Michael
